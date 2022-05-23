@@ -1,0 +1,12 @@
+[SHERLOCK]
+LwCas13a (H[non-G], down)
+
+[SHERLOCKv2]
+CcaCas13b (none)
+PsmCas13b (none)
+LwaCas13a (none)
+AsCas12a (TTTV[non-T], up)
+
+[DETECTR]
+LbCas12a (TTTV[non-T], up)
+
